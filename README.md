@@ -31,7 +31,7 @@ dentro da pasta "Pdf" em cada pasta correspondente a determinada lista.
    ```
 
 ## Créditos
-Aluno Programador: Dalton Augusto Pontes de Santis Filho
-Disciplina: Programação Orientada a Objetos
-Professor: Cristóvão Cunha
-Instituição: Faculdade De Tecnologia de Guaratinguetá (FATEC)
+- Aluno Programador: Dalton Augusto Pontes de Santis Filho
+- Disciplina: Programação Orientada a Objetos
+- Professor: Cristóvão Cunha
+- Instituição: Faculdade De Tecnologia de Guaratinguetá (FATEC)
