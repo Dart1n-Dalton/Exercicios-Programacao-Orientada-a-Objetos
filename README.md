@@ -1,6 +1,6 @@
 # Listas de Exercícios — Disciplina: Programação Orientada a Objetos
 
-Este repositório contém as listas de exercícios desenvolvidas durante a disciplina Programação Orientada a Objetos, no segundo primeiro do ano de 2025, ministrada pelo professor Cristóvão Cunha.  
+Este repositório contém as listas de exercícios desenvolvidas durante a disciplina Programação Orientada a Objetos, no primeiro semestre do ano de 2025, ministrada pelo professor Cristóvão Cunha.  
 Os enunciados das listas (em formato PDF) foram disponibilizados e utilizados com consentimento do professor.
 
 ## Conteúdos Aprendidos
